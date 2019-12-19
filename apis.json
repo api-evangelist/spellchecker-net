@@ -1,0 +1,73 @@
+{
+    "name": "Spellchecker.net",
+    "description": "Multi-language spell checking mechanism integrated into your website or a web application. No more manual checking of your texts for spelling and grammar mistakes! WebSpellChecker will find the mistakes and display the correction options.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/939-spellchecker-net.jpg",
+    "tags": [
+        "content",
+        "have api",
+        "spelling"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/spellchecker-net\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Spellchecker.net",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/939-spellchecker-net.jpg",
+            "humanURL": "http:\/\/webspellchecker.net",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/spellchecker-net-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/www.webspellchecker.net\/spellcheck3\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.webspellchecker.net\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.webspellchecker.net\/blog\/?feed=rss2"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/spellchecker-net"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/spellchecker-net"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/wiki.webspellchecker.net\/doku.php?id=installationandconfiguration:web_service"
+        },
+        {
+            "type": "Email",
+            "url": "support@webspellchecker.net"
+        },
+        {
+            "type": "Email",
+            "url": "Info@webspellchecker.net"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/SpellCheckerNet"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/webspellchecker.net"
+        }
+    ]
+}
